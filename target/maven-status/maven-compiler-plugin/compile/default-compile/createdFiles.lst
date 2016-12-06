@@ -1,0 +1,5 @@
+com\concretepage\wsdl\Student.class
+com\concretepage\wsdl\ObjectFactory.class
+com\concretepage\wsdl\GetStudentResponse.class
+com\concretepage\wsdl\package-info.class
+com\concretepage\wsdl\GetStudentRequest.class
